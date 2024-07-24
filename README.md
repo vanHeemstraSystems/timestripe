@@ -1,7 +1,11 @@
-repository-name
-# Repository Name
+timestripe
+# Timestripe
 
-Based on "ABC" at https://www.abc.com/
+> Connect daily tasks to long-term milestones and skyrocket your productivity!
+
+Based on "Timestripe" at https://timestripe.com/
+
+Based on "What is Timestripe? Simple tutorial for beginners" at https://www.youtube.com/watch?v=YR-km3ibpew
 
 ## 100 - Introduction
 
